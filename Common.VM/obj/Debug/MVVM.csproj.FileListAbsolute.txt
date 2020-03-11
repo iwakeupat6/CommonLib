@@ -1,0 +1,5 @@
+C:\Git\TimesheetTracker\CommonLib\MVVM\bin\Debug\MVVM.dll
+C:\Git\TimesheetTracker\CommonLib\MVVM\bin\Debug\MVVM.pdb
+C:\Git\TimesheetTracker\CommonLib\MVVM\obj\Debug\MVVM.csprojAssemblyReference.cache
+C:\Git\TimesheetTracker\CommonLib\MVVM\obj\Debug\MVVM.dll
+C:\Git\TimesheetTracker\CommonLib\MVVM\obj\Debug\MVVM.pdb

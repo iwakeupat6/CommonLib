@@ -1,0 +1,5 @@
+C:\Git\TimesheetTracker\CommonLib\Common.VM\bin\Debug\Common.VM.dll
+C:\Git\TimesheetTracker\CommonLib\Common.VM\bin\Debug\Common.VM.pdb
+C:\Git\TimesheetTracker\CommonLib\Common.VM\obj\Debug\Common.VM.csprojAssemblyReference.cache
+C:\Git\TimesheetTracker\CommonLib\Common.VM\obj\Debug\Common.VM.dll
+C:\Git\TimesheetTracker\CommonLib\Common.VM\obj\Debug\Common.VM.pdb
